@@ -37,6 +37,7 @@ Lancer une spec spécifique :
 
 `npx cypress run --spec "cypress/e2e/nom_de_la_spec.cy.js"`
 
-Lancer les test sur un navigateur spécifique
+Lancer les test sur un navigateur spécifique :
+
 `npx cypress run --browser nom_navigateur`
 
