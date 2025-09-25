@@ -25,13 +25,16 @@ Vous avez besoin d'installer Node.js et NPM (https://nodejs.org/)
 
 ## Commande a retenir 
 
-Lancer Cypress en mode IDE/GUI
+Lancer Cypress en mode IDE/GUI :
+
 `npx cypress open`
 
-Lancer toute une campagne en mode headless
+Lancer toute une campagne en mode headless :
+
 `npx cypress run`
 
-Lancer une spec spécifique 
+Lancer une spec spécifique : 
+
 `npx cypress run --spec "cypress/e2e/nom_de_la_spec.cy.js"`
 
 Lancer les test sur un navigateur spécifique
